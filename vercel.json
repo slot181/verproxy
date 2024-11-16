@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://api.stonecoks.xyz/$1"}
+      {"src": "/(.*)","dest": "https://newapi.stonecoks.xyz/$1"}
     ]
 }
